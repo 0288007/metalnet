@@ -1,0 +1,83 @@
+@font-face {
+  font-family: GNUUnifont;
+  src: url(unifont-16.0.01.otf);
+}
+
+body {
+    background-image: url('stars.gif');
+          background-repeat: no-repeat;
+		  background-size: cover;
+	    margin: 0;
+}
+
+p {
+	    font-family: GNUUnifont;
+		color:#FFFFFF;
+	        font-size: 24px;
+	        -webkit-text-stroke-width: 1px;
+                -webkit-text-stroke-color: black;
+	         margin: 8px;
+}
+
+h1 {
+	    font-family: 'Verdana', sans-serif;
+	        text-align: center;
+		position:relative;
+		color:#b5b7eb;
+                text-shadow: 2px 2px black, 1px 1px black;
+}
+
+
+button {
+	    font-family: GNUUnifont;
+        border-style: inset;
+		padding-left: 4px;
+		padding-right: 4px;
+		margin-bottom: 9px;
+}
+
+.button {
+	    cursor: pointer;
+}
+
+.quote {
+	text-align: center;
+}
+
+.index {
+  display: flex; /* Enables CSS flexbox */
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  height: 100vh; /* Full height to demonstrate vertical centering */
+}
+
+.bindex {
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+script {
+	 display:block;
+	 color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10%;
+	margin: 8px;
+}
+
+center {
+	margin: 8px;
+}
+
+.divider {
+		width:5px;
+		height:auto;
+		display:inline-block;
+}
+.divide {
+		margin-left:100px;
+}
