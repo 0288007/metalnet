@@ -29,15 +29,16 @@ h1 {
 
 
 button {
-	    font-family: GNUUnifont;
-        border-style: inset;
-		padding-left: 4px;
-		padding-right: 4px;
-		margin-bottom: 9px;
+	font-family: GNUUnifont;
+        border-style: outset;
+	padding-left: 4px;
+	padding-right: 4px;
+	margin-bottom: 9px;
+	cursor: pointer;
 }
 
-.button {
-	    cursor: pointer;
+button:active {
+	border-style: inset;
 }
 
 .quote {
