@@ -1,14 +1,10 @@
-@font-face {
-  font-family: GNUUnifont;
-  src: url(unifont-16.0.01.otf);
-}
-
 body {
 	    margin: 0;
+	    background-image: url("2fort.jpg");
 }
 
 p {
-	    font-family: GNUUnifont;
+	    font-family: 'Verdana', sans-serif;
 		color:#FFFFFF;
 	        font-size: 24px;
 	        -webkit-text-stroke-width: 1px;
@@ -26,7 +22,7 @@ h1 {
 
 
 button {
-	font-family: GNUUnifont;
+	font-family: 'Verdana', sans-serif;
         border-style: outset;
 	padding-left: 4px;
 	padding-right: 4px;
