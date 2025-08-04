@@ -75,3 +75,11 @@ center {
 .divide {
 		margin-left:100px;
 }
+
+p, button, h1 {
+  animation: fadein 2s;
+}
+@keyframes fadein {
+  from { opacity: 0}
+  to   { opacity: 1}
+}
