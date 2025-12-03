@@ -20,6 +20,14 @@ h1 {
                 text-shadow: 2px 2px black, 1px 1px black;
 }
 
+h2 {
+	    font-family: 'Verdana', sans-serif;
+	        text-align: center;
+		position:relative;
+		color:#4bd698;
+                text-shadow: 2px 2px black, 1px 1px black;
+}
+
 button {
 	font-family: 'Verdana', sans-serif;
         border-style: outset;
