@@ -1,6 +1,7 @@
 body {
 	    margin: 0;
-	    background-image: url("2fort.jpg");
+	    background-image: url("conc.png");
+	    background-repeat: repeat;
 }
 
 p {
