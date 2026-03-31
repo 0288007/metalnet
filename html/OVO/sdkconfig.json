@@ -1,0 +1,46 @@
+{
+  "networks": [
+    "Poki",
+    "CrazyGames",
+    "GamePix",
+    "GameDistribution",
+    "GameMonetize",
+    "CoolMathGames",
+    "HoodaMath",
+    "FreezeNova"
+  ],
+  "name": "CoolMathGames",
+  "gameId": "1377b99c10284c229423118a941af3b1",
+  "removeSocials": false,
+  "stopAudioInBackground": false,
+  "removeMidrollRewarded": true,
+  "noReligion": true,
+  "removeServiceWorker": true,
+  "interTypes": {
+    "loader": false,
+    "mainMenuStart": false,
+    "randomskins": false,
+    "removeads": false,
+    "levelStart": true,
+    "restart": false,
+    "levelStartFromMenu": false,
+    "levelStartOnSuccess": true
+  },
+  "splashScreen": false,
+  "sitelock": false,
+  "sites": [ 
+    "dev.coolmathgames.com",
+    "dev2.coolmathgames.com",
+    "dev-edit.coolmathgames.com",
+    "dev2-edit.coolmathgames.com",
+    "www.coolmathgames.com",
+    "www.coolmath-games.com",
+    "edit.coolmath-games.com",
+    "edit.coolmathgames.com",
+    "stage.coolmathgames.com",
+    "stage-edit.coolmathgames.com",
+    "nintendoboi222.github.io",
+    "https://nintendoboi222.github.io/games/OVO"
+  ],
+  "correctWebsite": "https://nintendoboi222.github.io/games/OVO"
+}
